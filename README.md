@@ -1,4 +1,4 @@
-# PasswordChecker(v1.1)
+# PasswordChecker
 *Utility that checks the password for reliability*
 The program is made in the form of a desktop application, runs on a device on Windows 7+
 
