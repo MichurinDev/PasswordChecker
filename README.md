@@ -1,5 +1,5 @@
 # PasswordChecker
-*Utility that checks the password for reliability*
+*Utility that checks the password for reliability.*
 The program is made in the form of a desktop application, runs on a device on Windows 7+
 
 The check is carried out according to the following criteria:
